@@ -141,7 +141,7 @@ export default function Home() {
         
       </AnimatedItem>
       <AnimatedItem>
-        <Link href='/services' className='flex justify-center -mt-16 sm:mt-6 w-full'><button className='bg-[rgba(249,227,98,1)] w-44 rounded-full text-[rgba(28,28,28,1)] mt-7 mb-7 font-extrabold h-10 flex justify-between pl-7 pr-7 items-center hover:animate-jiggle'>View All <img src='./Arrow_Up_Left.png' className='h-9' /></button></Link>
+        <Link href='/services' className='flex justify-center -mt-7 sm:mt-6 w-full'><button className='bg-[rgba(249,227,98,1)] w-44 rounded-full text-[rgba(28,28,28,1)] mt-7 mb-7 font-extrabold h-10 flex justify-between pl-7 pr-7 items-center hover:animate-jiggle'>View All <img src='./Arrow_Up_Left.png' className='h-9' /></button></Link>
       </AnimatedItem>
       <AnimatedItem>
         <div className="flex justify-center w-full mt-12 sm:mt-0"><Portfolio /></div>
